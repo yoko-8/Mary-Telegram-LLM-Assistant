@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\module_engine\training\training_data2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\module_engine\training\validation_data.csv">
           <value>
             <Attribute>

@@ -52,16 +52,14 @@ async def chat(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
             await update.message.reply_text(response)
         elif module == "Weather":
             weather = get_weather(query) # This needs to be stringified
-            recent_mems = None # need to grab recent memories from memory_module
+            recent_mems = None # need to grab recent memories from memory_module. max 2048
             response = generate(weather, recent_mems, query)
             await update.message.reply_text(response)
         elif module == "Chat":
             related_mems = remember_memories(query)
-            recent_mems = None
+            recent_mems = None # need to grab recent memories from memory_module
             response = generate(related_mems, recent_mems, query)
             await update.message.reply_text(response)
-        # elif module == "Image":
-        #     print("Module is Image")
 
 
 def main() -> None:

@@ -1,8 +1,11 @@
 query,label
 What's the location of my friend's ballet class next month?,Google Calendar
 Is there a chance of thunderstorms tomorrow?,Weather
+Your pet's tricks are adorable. Can you record a video?,Image
+You're at a music concert? Show me the stage!,Image
 What's the date of my anniversary?,Google Calendar
 How much precipitation is expected in the next hour?,Weather
+Let's do a video call and catch up face-to-face.,Image
 Have you ever been to a music festival?,Chat
 Have you ever taken a road trip?,Chat
 Cancel my lunch meeting,Google Calendar
@@ -28,6 +31,7 @@ What's the humidity level right now?,Weather
 What's the heat index today?,Weather
 How's your experience with home cooking?,Chat
 What's the chance of rain tomorrow?,Weather
+Your knitting project looks great. Can I see it?,Image
 How high is the chance of rain tomorrow?,Weather
 What's the chance of rain in the next hour?,Weather
 Let's plan a movie marathon night soon.,Chat
@@ -61,12 +65,15 @@ Add a reminder to pick up dry cleaning,Google Calendar
 How's your day going so far?,Chat
 Should I wear a jacket today?,Weather
 What's your favorite type of cuisine?,Chat
+Your stargazing setup must be cool. Can I see it?,Image
 Set a reminder for my wife's birthday,Google Calendar
 Find the nearest weather station,Weather
+You're at a museum? Show me the artwork!,Image
 What's the current temperature outside?,Weather
 What's the current wind direction?,Weather
 What's the current air quality index?,Weather
 Remind me to buy groceries,Google Calendar
+I'm curious about your movie night setup. Show me!,Image
 Do you have any dietary restrictions?,Chat
 When will it snow this week?,Weather
 Can you recommend a good book to read?,Chat
@@ -74,18 +81,22 @@ What's the current visibility in miles?,Weather
 When is my dentist appointment?,Google Calendar
 What's the chance of thunderstorms today?,Weather
 Do you enjoy visiting historical sites?,Chat
+I'd love to see your street. Share a pic of your town!,Image
 What's the current visibility in miles?,Weather
 Set a reminder for tomorrow morning,Google Calendar
 When will it snow this week?,Weather
 What time is my flight arrival?,Google Calendar
 What's my schedule for next month?,Google Calendar
+Your recent crafting project is impressive. Can I see it?,Image
 How's your pet dog/cat doing?,Chat
 What's your favorite type of music?,Chat
+Your favorite smoothie must be delicious. Share a pic!,Image
 Set a reminder for tomorrow morning,Google Calendar
 What's the location of my daughter's ballet class?,Google Calendar
 Create a new event for next Friday,Google Calendar
 How do you like to spend your evenings?,Chat
 What's the weather like today?,Weather
+Your breakfast looks delicious. Can I see it?,Image
 How many days until my vacation?,Google Calendar
 What's the heat index today?,Weather
 Any upcoming festivals or events nearby?,Chat
@@ -93,6 +104,7 @@ How's your daily workout routine?,Chat
 When is my next doctor's appointment next month?,Google Calendar
 What's the current moon phase in words?,Weather
 What's the current pollen count in grains per cubic meter?,Weather
+Your yoga poses are amazing. Can you share them?,Image
 Is it going to rain this weekend?,Weather
 What's on my calendar for next week?,Google Calendar
 When is my next dentist appointment next year?,Google Calendar
@@ -101,11 +113,13 @@ What's the current wind direction?,Weather
 How many days until my job interview next month?,Google Calendar
 What time does my flight depart?,Google Calendar
 When is my doctor's appointment?,Google Calendar
+Your pet's tricks are adorable. Show me a video!,Image
 Is it going to be a sunny day tomorrow?,Weather
 What's the current air quality index?,Weather
 What's on my calendar for next week?,Google Calendar
 What's your favorite type of dessert?,Chat
 How many days until my vacation?,Google Calendar
+Your breakfast spread looks delicious. Can I see it?,Image
 What's the current ozone level?,Weather
 I'm doing okay.,Chat
 I've been wanting to learn a new language.,Chat
@@ -113,7 +127,9 @@ How's your morning routine usually like?,Chat
 What's the humidity level right now?,Weather
 What's on my calendar for next week?,Google Calendar
 What's the current air pressure in pascals?,Weather
+You're at a cultural heritage site? Show me around!,Image
 How much free time do I have tomorrow?,Google Calendar
+You're at a pottery class? Show me your creation!,Image
 What's the location of my next appointment?,Google Calendar
 When is my dentist appointment?,Google Calendar
 When is my doctor's appointment?,Google Calendar
@@ -121,6 +137,7 @@ Any favorite local restaurants to recommend?,Chat
 Is it going to rain this weekend?,Weather
 When is my next team meeting?,Google Calendar
 I'm thinking of trying out a new hobby.,Chat
+What's your favorite board game? Show me the board!,Image
 How many days until my vacation?,Google Calendar
 What's the current dew point?,Weather
 I love eating hot dogs!,Chat
@@ -128,17 +145,22 @@ Any interesting podcasts you're into?,Chat
 What's the current air pressure?,Weather
 What's your favorite type of cocktail?,Chat
 How high is the chance of rain tomorrow?,Weather
+I'm curious about your cooking. Show me a dish you made!,Image
 Any favorite local coffee shops to visit?,Chat
 What's your favorite movie genre?,Chat
 How many days until my birthday next month?,Google Calendar
 What's the wind chill factor?,Weather
+Your Christmas decorations must be beautiful. Share a pic.,Image
 What's the wind chill factor?,Weather
+I'm curious about your art. Can you show me your latest creation?,Image
 Create a new event for next year,Google Calendar
 When is my next meeting?,Google Calendar
 The weather has been so unpredictable lately.,Chat
 Any plans for the upcoming holiday season?,Chat
 How's your experience with online shopping?,Chat
 I went on a date today. The girl I was with was a real cutie!,Chat
+What's your favorite view in the city? Share a pic!,Image
+Let's see the latest artwork you're proud of!,Image
 What's the current visibility?,Weather
 How much time do I have until my next meeting?,Google Calendar
 What's the heat index today?,Weather
@@ -147,6 +169,7 @@ Let's plan a game night with friends.,Chat
 What's the current pollen count?,Weather
 What's your go-to comfort food?,Chat
 What time is my next project deadline?,Google Calendar
+What's your favorite piece of jewelry? Show me a pic!,Image
 Where can I find the weather forecast for the next week?,Weather
 Have you played any new videogames?,Chat
 What time is my dentist appointment tomorrow?,Google Calendar
@@ -167,22 +190,28 @@ How's your bedtime routine typically?,Chat
 What's the current ozone level?,Weather
 When is my next vacation next year?,Google Calendar
 What's the weather like right now?,Weather
+You're hiking? Show me the scenic view!,Image
 What's the atmospheric pressure today?,Weather
 What's your favorite color?,Chat
 When is my next project deadline?,Google Calendar
 What time is my son's piano lesson?,Google Calendar
 What's the current air quality index?,Weather
+Your tea collection must be impressive. Show me!,Image
 What's the current wind direction in degrees?,Weather
+What's on your playlist right now? Share a screenshot!,Image
 Create a new event for next Friday,Google Calendar
 What's the sunset time?,Weather
 Is there a chance of thunderstorms tomorrow?,Weather
 How many days until my vacation?,Google Calendar
 What's my schedule for next month?,Google Calendar
 Have you ever been on a cruise?,Chat
+Your travel photos are fantastic. Can I see them?,Image
 What time does my flight depart?,Google Calendar
 Is there a chance of thunderstorms tomorrow?,Weather
+Your DIY project sounds interesting. Can I see it?,Image
 What's the current visibility in miles?,Weather
 What time does my flight depart?,Google Calendar
+Your latest knitting project is cool. Can I see it?,Image
 What's the current visibility in kilometers?,Weather
 What's the current dew point?,Weather
 How's your technology setup at home?,Chat
@@ -192,13 +221,17 @@ What's the forecast for tomorrow?,Weather
 What's the forecast for tomorrow?,Weather
 What's the current dew point in degrees?,Weather
 What's the date of my friend's wedding?,Google Calendar
+What's your favorite view from your balcony? Show me!,Image
 What's the current humidity level in percentage?,Weather
 What's the humidity level right now?,Weather
+Your vacation destination looks amazing. Can I see the beach?,Image
 What time does my flight depart?,Google Calendar
 How's your new job going?,Chat
 What's on my calendar for next week?,Google Calendar
 What's the current UV index?,Weather
+What's your favorite breakfast food? Show me a pic!,Image
 What time is my flight arrival tomorrow?,Google Calendar
+Your latest painting must be beautiful. Can I see it?,Image
 Set a reminder for my wife's birthday,Google Calendar
 Let's go for a walk in the park someday.,Chat
 Do you enjoy cooking at home?,Chat
@@ -206,13 +239,18 @@ What's the current atmospheric pressure in hectopascals?,Weather
 Add a reminder to call mom,Google Calendar
 When is my next lunch meeting next week?,Google Calendar
 I was just playing some card games. I went 0-4.,Chat
+I'd love to see your garden in bloom. Can you share it?,Image
 What time is my son's piano lesson tomorrow?,Google Calendar
 How much precipitation is expected in the next hour?,Weather
+Can you share a picture of your latest adventure?,Image
 What's the current UV index on a scale of 1 to 10?,Weather
 How high is the chance of rain tomorrow?,Weather
 What's the current visibility in miles?,Weather
+What's on your bookshelf? Share a photo.,Image
+What's in your fridge right now? Show me a pic!,Image
 When is my next meeting?,Google Calendar
 What's the weather like today?,Weather
+I'm curious about your woodworking project. Show me!,Image
 Add a reminder to call mom,Google Calendar
 What's the current temperature in Fahrenheit?,Weather
 How's your weekend relaxation routine?,Chat
@@ -233,28 +271,34 @@ What time is my daughter's dance class?,Google Calendar
 Create a new event for next Friday,Google Calendar
 What's the heat index tomorrow in degrees?,Weather
 When is my next lunch meeting?,Google Calendar
+I'm curious about your community event. Show me!,Image
 What's the date of my anniversary?,Google Calendar
 How many days until my vacation?,Google Calendar
 How hot will it get later today?,Weather
 Any recent cultural festivals attended?,Chat
 What's the chance of thunderstorms today in percentage?,Weather
 What time does my flight depart?,Google Calendar
+You're at a botanical garden? Show me the plants!,Image
 What's the current wind direction?,Weather
 What's the atmospheric pressure today?,Weather
 Add a reminder to pick up dry cleaning,Google Calendar
 Have you been to any concerts recently?,Chat
 How high is the chance of rain tomorrow?,Weather
+Your new car looks great. Can you send a photo?,Image
 Remind me to buy groceries,Google Calendar
 What time does my flight depart?,Google Calendar
 Do you enjoy going to art exhibitions?,Chat
+Your new gadget is impressive. Can you show me?,Image
 When is my next team meeting next week?,Google Calendar
 How much precipitation is expected in the next hour?,Weather
 What's your favorite type of tea?,Chat
 Should I bring an umbrella today?,Weather
 Set a reminder for my wife's birthday,Google Calendar
 How many days until my vacation?,Google Calendar
+Your workout routine is inspiring. Can you show it?,Image
 What's the sunrise time?,Weather
 When is my next team meeting?,Google Calendar
+I'm curious about your DIY project. Can I see it?,Image
 Let's plan a board game night soon.,Chat
 Add an event to my calendar,Google Calendar
 Do you like to attend food festivals?,Chat
@@ -295,21 +339,28 @@ When is my next team meeting?,Google Calendar
 I need to do some grocery shopping later.,Chat
 How's your work-life balance?,Chat
 What's the current visibility?,Weather
+Your view must be amazing from there. Show me!,Image
+I'd love to see your balcony. Can you show me?,Image
+Your city's skyline must be fantastic. Show me a pic!,Image
 What's the sunset time?,Weather
 What's my schedule for next month?,Google Calendar
 What's the current temperature in Celsius?,Weather
 What's the wind speed at the moment?,Weather
 Should I wear a jacket today?,Weather
+What's your favorite part of your neighborhood? Show me!,Image
 Should I wear a jacket today?,Weather
 Any recent home improvement projects?,Chat
 Set a reminder for my wife's birthday,Google Calendar
 How's your morning meditation practice?,Chat
 What's the current moon phase?,Weather
+I'm curious about your home garden. Can you show it to me?,Image
 I'm thinking of redecorating my living room.,Chat
 When is my next dentist appointment next month?,Google Calendar
 Is it going to rain this weekend?,Weather
+Your fashion sense is great. Show me your outfit!,Image
 How hot will it get later today?,Weather
 What's the current wind chill factor in degrees?,Weather
+What's on your bookshelf? Take a photo!,Image
 Add an event to my calendar,Google Calendar
 What time is my daughter's dance class?,Google Calendar
 What's the wind chill factor?,Weather
@@ -318,7 +369,9 @@ What's the date of my anniversary?,Google Calendar
 What's the current ozone level?,Weather
 Create a new event for next month,Google Calendar
 What's the current chance of rain in percentage?,Weather
+Your painting looks fantastic. Can I see more?,Image
 What's my schedule for tomorrow?,Google Calendar
+You're at a woodworking workshop? Show me your work!,Image
 Any recent music concert experiences?,Chat
 How many days until my birthday?,Google Calendar
 What's the location of my next appointment?,Google Calendar
@@ -339,13 +392,16 @@ How's your coffee order at the café?,Chat
 What's the current wind speed in mph?,Weather
 How do you like to spend your Sundays?,Chat
 When is my next doctor's appointment next week?,Google Calendar
+Let's see the delicious meal you just cooked!,Image
 How high is the UV index tomorrow?,Weather
+What's in your refrigerator? Show me a pic!,Image
 Let's plan a movie night soon.,Chat
 Let's catch up over coffee soon.,Chat
 What's the UV index today?,Weather
 How's your garden coming along?,Chat
 What's on my schedule for next month?,Google Calendar
 Add a reminder to call mom,Google Calendar
+I'm curious about your cooking skills. Show me a dish!,Image
 What's the current visibility in miles?,Weather
 Any recent travel mishaps to share?,Chat
 List my upcoming appointments,Google Calendar
@@ -356,17 +412,22 @@ What's the current UV index on a scale of 1 to 10?,Weather
 How much time do I have until my next meeting?,Google Calendar
 What's your favorite type of beer?,Chat
 What's your favorite type of coffee?,Chat
+I'd love to see your home office setup. Can you share it?,Image
 Any recent art gallery visits?,Chat
 How much precipitation is expected in the next hour?,Weather
 Find the nearest weather station,Weather
+I'd love to see your local park. Share a pic!,Image
 Set a reminder for tomorrow morning,Google Calendar
 What's your favorite season of the year?,Chat
+Your breakfast cereal looks tasty. Can I see it?,Image
 What's your favorite type of ice cream?,Chat
 Add a reminder to pick up dry cleaning,Google Calendar
+What's your favorite fruit juice? Share a pic!,Image
 How much time do I have until my next meeting?,Google Calendar
 What's the chance of rain tomorrow?,Weather
 How high is the UV index tomorrow on a scale of 1 to 10?,Weather
 Add a reminder to call mom,Google Calendar
+What's your favorite type of bread? Share a pic!,Image
 What's the heat index today?,Weather
 Remind me to buy groceries on my way home,Google Calendar
 What's your opinion on current events?,Chat
@@ -374,6 +435,7 @@ Have you ever traveled solo?,Chat
 Do you enjoy exploring new cuisines?,Chat
 What's on my schedule for the next week?,Google Calendar
 Add a reminder to pick up dry cleaning,Google Calendar
+You're at a local event? Show me the festivities!,Image
 What time is my dentist appointment tomorrow?,Google Calendar
 How's your neighborhood?,Chat
 What time is my doctor's appointment?,Google Calendar
@@ -388,13 +450,17 @@ Is it going to be a cloudy day tomorrow?,Weather
 Is there a chance of thunderstorms tomorrow?,Weather
 What time does my flight depart?,Google Calendar
 Any favorite childhood memories to share?,Chat
+Your weekend hike sounds fun. Can you share a pic?,Image
 Find the nearest weather station,Weather
 Create a new event for next Friday,Google Calendar
 What's the forecast for today?,Weather
+I bet your Halloween costume is awesome. Share a pic!,Image
 What's my schedule for next month?,Google Calendar
 Have you tried that new restaurant in town?,Chat
 What's the temperature trend for the next few hours?,Weather
+Your hiking adventure looks amazing. Share a pic!,Image
 Cancel my lunch meeting,Google Calendar
+What's in your bag right now? Show me a pic!,Image
 Set a reminder for tomorrow morning,Google Calendar
 How's your family doing?,Chat
 Add a reminder to call the insurance company next week,Google Calendar
@@ -404,9 +470,11 @@ How much precipitation is expected in the next hour?,Weather
 What's my schedule for next month?,Google Calendar
 What's the UV index today?,Weather
 Cancel my lunch meeting,Google Calendar
+What's your favorite type of donut? Show me one!,Image
 What's the location of my next appointment?,Google Calendar
 I've been wanting to explore photography.,Chat
 What's the current wind chill factor?,Weather
+Your bird-watching hobby is interesting. Can you share?,Image
 Create a new event for tomorrow,Google Calendar
 What's the current moon phase in words?,Weather
 Do you prefer indoor or outdoor activities?,Chat
