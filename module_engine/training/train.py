@@ -5,6 +5,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import accuracy_score
 from sklearn.calibration import CalibratedClassifierCV
 
+# Script written by Expl0dingCat in "Ame" project
+# GitHub here: https://github.com/Expl0dingCat/Ame
 print('Loading data...')
 
 train_df = pd.read_csv("training_data.csv")
