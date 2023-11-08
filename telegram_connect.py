@@ -31,28 +31,34 @@ async def current_location_command(update: Update, context: ContextTypes.DEFAULT
     await update.message.reply_text("Your current location is: " + read_location())
 
 
+async def save_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    await update.message.reply_text('Mary has saved our conversations.')
+
+
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     help_message = ("Hey boss! Here's some commands you can use.\n"
                     "/setlocation - Set your location, i.e. \"New York\"\n"
-                    "/currentlocation - Your currently set location")
+                    "/currentlocation - Your currently set location\n"
+                    "/save - Saves conversations into Mary's memories."
+                    )
     await update.message.reply_text(help_message)
 
 
 async def chat(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     query = update.message.text
 
-    if update.effective_chat.id != USER_ID or update.message.chat.type != 'private':
+    if str(update.effective_user.id) != USER_ID:
         await update.message.reply_text("You're not my boss! Get outta here!")
     else:
         module = classify_user_input(query)
         if module == "Calendar":
-            cal_events = get_calendar_events(query) # is a string
+            cal_events = get_calendar_events(query)
             recent_mems = None # need to grab recent memories from memory_module
             response = generate(cal_events, recent_mems, query)
             await update.message.reply_text(response)
         elif module == "Weather":
-            weather = get_weather(query) # This needs to be stringified
-            recent_mems = None # need to grab recent memories from memory_module. max 2048
+            weather = get_weather(query)
+            recent_mems = None # need to grab recent memories from memory_module
             response = generate(weather, recent_mems, query)
             await update.message.reply_text(response)
         elif module == "Chat":
