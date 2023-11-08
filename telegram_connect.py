@@ -42,11 +42,11 @@ async def chat(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     query = update.message.text
 
     if update.effective_chat.id != USER_ID or update.message.chat.type != 'private':
-        await update.message.reply_text("You're not boss! Get outta here!")
+        await update.message.reply_text("You're not my boss! Get outta here!")
     else:
         module = classify_user_input(query)
         if module == "Calendar":
-            cal_events = get_calendar_events(query) # This needs to be stringified
+            cal_events = get_calendar_events(query) # is a string
             recent_mems = None # need to grab recent memories from memory_module
             response = generate(cal_events, recent_mems, query)
             await update.message.reply_text(response)

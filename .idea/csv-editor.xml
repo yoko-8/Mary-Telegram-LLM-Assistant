@@ -38,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\module_engine\training\validation_data_with_image.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

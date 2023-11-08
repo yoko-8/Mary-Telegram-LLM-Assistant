@@ -2,6 +2,7 @@ from datetime import datetime, timedelta
 from gcsa.google_calendar import GoogleCalendar
 
 
+# This code block was lifted from SociallyIneptWeeb
 def get_calendar_events(sentence):
     dates = extract_dates(sentence)
     start = dates["start"]
@@ -10,10 +11,13 @@ def get_calendar_events(sentence):
     gc = GoogleCalendar(credentials_path=".credentials/credentials.json")
     events = []
     for event in gc.get_events(start, end, order_by='startTime', single_events=True):
-        events.append(f"- {event.summary} at {event.location} from {event.start.strftime('%I:%M%p')} to {event.end.strftime('%I:%M%p')}")
+        if event.location is not None:
+            events.append(f"- {event.summary} at {event.location} from {event.start.strftime('%I:%M%p')} to {event.end.strftime('%I:%M%p')} on {event.start.strftime('%B %d')}")
+        else:
+            events.append(f"- {event.summary} from {event.start.strftime('%I:%M%p')} to {event.end.strftime('%I:%M%p')} on {event.start.strftime('%B %d')}")
 
     if events:
-        return f"{len(events)} events from {start.strftime('%d %B %Y')} to {end.strftime('%d %B %Y')} in Fox's calendar:\n" + '\n'.join(events)
+        return f"{len(events)} events from {start.strftime('%B %d %Y')} to {end.strftime('%B %d %Y')} in Fox's calendar:\n" + '\n'.join(events)
     else:
         return None
 
